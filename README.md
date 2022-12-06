@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and cryptocurrencies
 - 🌱 I’m currently learning Front-End and Blockchain Dev
 - 💞️ I’m looking to collaborate on intersting crypto related projects
-- 📫 How to reach me - email:vengurakonstant@gmail.com
+- 📫 How to reach me - email: vengurakonstant@gmail.com
 
 <!---
 Kanstancin104/Kanstancin104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
